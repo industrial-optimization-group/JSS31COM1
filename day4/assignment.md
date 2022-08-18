@@ -1,6 +1,8 @@
 Run the EAs with problems provided by desdeo_problem.testproblems module.
 
-Run the EAs with your own MOPs
+Run the EAs with your own MOPs.
+
+Create appropriate visualizations for non-interactive and interactive EAs.
 
 Optional: Implement a simple EA as a subclass of BaseEA:
 * Check out BaseEA: https://github.com/industrial-optimization-group/desdeo-emo/blob/master/desdeo_emo/EAs/BaseEA.py
